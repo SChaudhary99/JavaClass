@@ -53,7 +53,6 @@ public class Feb11thClass {
                         break;
                 }
             }
-
         } while (input != 0);
     }
 

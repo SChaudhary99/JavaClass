@@ -1,0 +1,9 @@
+    // attributes --> instances variables
+
+    //constructors --> are not method but looks like methods| cons
+    //behaviors --> Basically methods
+
+    //if we do not write constructor then java will write a default constructer.
+
+
+--> Objects are stored in HEAP memory..
