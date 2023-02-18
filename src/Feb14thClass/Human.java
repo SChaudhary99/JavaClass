@@ -10,7 +10,6 @@ public class Human {
     boolean vision;
     boolean vocals;
 
-
     // attributes --> instances variables
 
     //constructors --> are not method but looks like methods | cannot be static
