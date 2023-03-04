@@ -1,0 +1,15 @@
+# Method Overload
+--> Having two or more methods under same name but with different parameters || this is Method Overload
+--> Method Signature: only Method name + Parameters.
+
+##OOPS Object Oriented Programming
+
+=->Encapsulation
+    all the attributes and variables will be PRIVATE, only use Public if necessity.
+    so in encapsulation we cannot access variables from outside.
+    we can use getters and setter methods or use construction to access variables.
+
+=->Inheritance
+=->Abstraction
+=->Polymorphism
+
