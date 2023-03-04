@@ -10,6 +10,41 @@
     we can use getters and setter methods or use construction to access variables.
 
 =->Inheritance
+    Inheritance is basically Parent child relationship,
+    so child class inherits properties of the parent class.
+
+            ClassA
+                int a
+                int b
+                int c
+
+                public String display(){
+                sout("Something");
+                }
+
+            ClassB inherits ClassA //here ClassA is a parent and ClassB is Child
+                   int a
+                   int b
+                   int c
+
+                   //Basically here we are overriding parent method by adding new sout statement.
+                   public String display(){
+                   sout("Something new in child")
+                   sout("Something");
+                   }
+
+                   --multi level Inheritance
+                   parent
+                   |
+                   child
+                   |
+                   grandchild
+
+                   --multiple inheritance
+                       parent
+                   |           |
+                   child1   child2
+
 =->Abstraction
 =->Polymorphism
 

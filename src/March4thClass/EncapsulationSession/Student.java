@@ -13,5 +13,20 @@ public class Student {
     public String getFirstName() {
         return firstName;
     }
-    
+
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
+    }
+
+    public String getLastName() {
+        return lastName;
+    }
+
+    public void setContactNum(String contactNum) {
+        this.contactNum = contactNum;
+    }
+
+    public String getContactNum() {
+        return contactNum;
+    }
 }
